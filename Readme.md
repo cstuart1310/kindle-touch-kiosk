@@ -1,3 +1,5 @@
+# THIS IS A FORK, SEE THE ORIGINAL REPO FIRST
+
 # Kindle Touch (K5, D01200) Chromium Touch Kiosk
 
 The goal of this project is to use a Kindle Touch as an interactive kiosk for Home Assistant Lovelace pages. To achieve this,
